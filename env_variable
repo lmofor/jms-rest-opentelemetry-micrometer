@@ -1,0 +1,9 @@
+JAVA_TOOL_OPTIONS=-javaagent:"C:\LOGITECH\opentelemetry-javaagent.jar"
+
+
+instrument DB
+            JMS
+            REST INCOMING
+            REST TEMPLATE
+            INTEGRATION
+            BATCH CAMEL
