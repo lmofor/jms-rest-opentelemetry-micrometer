@@ -7,3 +7,4 @@ instrument DB
             REST TEMPLATE
             INTEGRATION
             BATCH CAMEL
+            AWS S3
